@@ -122,16 +122,18 @@ Saturday  | 8:00 am - 5:00 pm | 8
 ## Resources
 
 - Android
-  - [Android](https://angular.io/docs/ts/latest/guide/style-guide.html)
+  - [Android Api](https://developer.android.com/reference/packages.html)
+  - [Android weekly](http://androidweekly.net/)
+  - [Android awesome](https://github.com/wasabeef/awesome-android-ui)
 
 - Android Icon
   - [Launcher icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=clipart&foreground.clipart=android&foreground.space.trim=1&foreground.space.pad=0.25&foreColor=rgba(96%2C%20125%2C%20139%2C%200)&backColor=rgb(68%2C%20138%2C%20255)&crop=0&backgroundShape=square&effects=none)
 
 - Java
-  - [ES2015 Features](http://es6-features.org/)
+  - [Java Ya](https://www.tutorialesprogramacionya.com/javaya/)
 
 - XML
-  - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+  - [Tutorial XML](http://www.desarrolloweb.com/manuales/manual-introduccion-xml.html)
 
 ## Assistance Required
 
