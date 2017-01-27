@@ -1,5 +1,7 @@
 package com.alejouribesanchez.class_1;
 
+import android.annotation.TargetApi;
+import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -37,6 +39,11 @@ public class MainActivity extends AppCompatActivity {
         AndroidProject androidProject = new AndroidProject();
         String name = androidProject.name(19);
         Log.d("JAVA","Android Name: " + name);
+
+        //Interfaces
+        MainAct mainAct = new MainAct();
+
+
 
 
     }
@@ -162,6 +169,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //Abstract
+
     public abstract class Android{
         abstract int age(int year);
         abstract String name(int api);
@@ -226,6 +235,58 @@ public class MainActivity extends AppCompatActivity {
             }
             return name;
         }
+    }
+
+    //Interface and annotations
+
+    public interface Callback{
+         void onClick(String information);
+    }
+
+    public class OtherClass{
+
+        private Callback callback;
+        static final String name = "OtherClass";
+
+        public OtherClass(Callback callback) {
+            this.callback = callback;
+        }
+
+        public void doSomething() {
+            callback.onClick(name);
+        }
+
+    }
+
+    public class MainAct implements Callback{
+
+        public MainAct()
+        {
+            OtherClass otherClass = new OtherClass(this);
+            otherClass.doSomething();
+        }
+
+        @Override
+        public void onClick(String information) {
+            Log.d("JAVA",information);
+        }
+
+        @TargetApi(Build.VERSION_CODES.LOLLIPOP)
+        public void onlyLollipop() {
+            Log.d("JAVA","Lollipop");
+        }
+
+        @Deprecated
+        public void Area() {
+            Log.d("JAVA","Area deprecated");
+        }
+
+        @SuppressWarnings("deprecations")
+        public void Area2() {
+           Area();
+        }
+
+
     }
 
 }
