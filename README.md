@@ -4,7 +4,7 @@
 
 In this course, the student is going to learn the basic concepts to become a junior android developer, the learning includes an introduce to java, concepts of android architecture, beginner knowledges, components for build an entire applicattion and user interface components.  The intermediate course is more complex includes material design, sqlite, processes in second plane, practice applications, google services and more. we hope that you learn a lot and become a new android developer.
 
-The course will be limited to 12 people in order to good explanation and solve all students questions.
+The course will be limited to 15 people in order to good explanation and solve all students questions.
 
 ## Target people
 
@@ -32,97 +32,98 @@ February 2017 | Schedule | Duration
 ---------|----------|---------
 Monday  | 5:00 pm - 7:30 pm | 2:30
 Wednesday  | 5:00 am - 7:30 pm | 2:30
-Friday  |  5:00 pm - 9:00 pm | 2:30
-Monday  | 5:00 pm - 9:00 pm | 2:30
-Wednesday  | 5:00 pm - 9:00 pm | 2:30
-Friday  | 5:00 am - 5:00 pm | 2:30
-Monday  | 5:00 pm - 9:00 pm | 2:30
-Wednesday  | 5:00 pm - 9:00 pm | 2:30
-Friday  | 5:00 am - 5:00 pm | 2:30
-Monday  | 5:00 pm - 9:00 pm | 2:30
-Wednesday  | 5:00 pm - 9:00 pm | 2:30
-Friday  | 5:00 am - 5:00 pm | 2:30
-Monday  | 5:00 pm - 9:00 pm | 2:30
-Wednesday  | 5:00 pm - 9:00 pm | 2:30
-Friday  | 5:00 am - 5:00 pm | 2:30
+Friday  |  5:00 pm - 7:30 pm | 2:30
+Monday  | 5:00 pm - 7:30 pm | 2:30
+Wednesday  | 5:00 pm - 7:30 pm | 2:30
+Friday  | 5:00 am - 7:30 pm | 2:30
+Monday  | 5:00 pm - 7:30 pm | 2:30
+Wednesday  | 5:00 pm - 7:30 pm | 2:30
+Friday  | 5:00 am - 7:30 pm | 2:30
+Monday  | 5:00 pm - 7:30 pm | 2:30
+Wednesday  | 5:00 pm - 7:30 pm | 2:30
+Friday  | 5:00 am - 7:30 pm | 2:30
+Monday  | 5:00 pm - 7:30 pm | 2:30
+Wednesday  | 5:00 pm - 7:30 pm | 2:30
+Friday  | 5:00 am - 7:30 pm | 2:30
+Monday  | 5:00 pm - 7:30 pm | 2:30
  | **Total Duration** | **32 Hours**
 
 ## Schedule
 
-### [CLASS 1:](https://slides.com/) 
+### [CLASS 1:](https://github.com/alejouribesanchez/android_course/tree/master/class_1) 
 - Introduction to JAVA (1 hour)
 - Android Architecture and compile application (30 minutes)
 - Android project structure (30 minutes)
 
-### [CLASS 2:](http://slides.com/)
+### [CLASS 2:](https://github.com/alejouribesanchez/android_course/tree/master/class_2)
 
 - Introduction of XML Language (30 minutes)
 - Use resources in Android (30 minutes)
 - Use of strings (1 hour)
 
-### [CLASS 3:](http://slides.com/) 
+### [CLASS 3:](https://github.com/alejouribesanchez/android_course/tree/master/class_3) 
 
 - Android components  (1 hour)
 - Comunicate by Intents  (1 hour)
 
-### [CLASS 4:](http://slides.com/) 
+### [CLASS 4:](https://github.com/alejouribesanchez/android_course/tree/master/class_4) 
 
 - Custom Content Provider (1:30 hour)
 - Content Provider with multiple tables (1 hour)
 
-### [CLASS 5:](https://slides.com/) 
+### [CLASS 5:](https://github.com/alejouribesanchez/android_course/tree/master/class_5) 
 
 - Services in second plane (2 hours)
 
-### [CLASS 6:](https://slides.com/) 
+### [CLASS 6:](https://github.com/alejouribesanchez/android_course/tree/master/class_6) 
 
 - Layout in Android (2 hour)
 
-### [CLASS 7:](https://slides.com/) 
+### [CLASS 7:](https://github.com/alejouribesanchez/android_course/tree/master/class_7) 
 
 - Set up Layouts and Views in Android Studio(1 hour)
 - Buttons (1 hour)
 
-### [CLASS 8:](https://slides.com/) 
+### [CLASS 8:](https://github.com/alejouribesanchez/android_course/tree/master/class_8) 
 
 - EditText (2 hour)
 
-### [CLASS 9:](https://slides.com/) 
+### [CLASS 9:](https://github.com/alejouribesanchez/android_course/tree/master/class_9) 
 
 - CheckBox (1 hour)
 - RadioButton (1 hour)
 
-### [CLASS 10:](https://slides.com/) 
+### [CLASS 10:](https://github.com/alejouribesanchez/android_course/tree/master/class_10) 
 
 - Fragments in Android (1 hour)
 - Action Bar in Android (30 minutes)
 - Themes and style in Android (30 minutes)
 
-### [CLASS 11:](https://slides.com/) 
+### [CLASS 11:](https://github.com/alejouribesanchez/android_course/tree/master/class_11) 
 
 - ListView and adapters (1 hour)
 - Floating Action Button (1 hour)
 
-### [CLASS 12:](https://slides.com/) 
+### [CLASS 12:](https://github.com/alejouribesanchez/android_course/tree/master/class_12) 
 
 - Text input layout (1 hour)
 - GridView (1 hour)
 
-### [CLASS 13:](https://slides.com/) 
+### [CLASS 13:](https://github.com/alejouribesanchez/android_course/tree/master/class_13) 
 
 - Navigation Drawer (1 hour)
 - Swipe Views (1 hour)
 
-### [CLASS 14:](https://slides.com/) 
+### [CLASS 14:](https://github.com/alejouribesanchez/android_course/tree/master/class_14) 
 
 - Navigation Drawer (1 hour)
 - Swipe Views (1 hour)
 
-### [CLASS 15:](https://slides.com/) 
+### [CLASS 15:](https://github.com/alejouribesanchez/android_course/tree/master/class_15) 
 
 - Dialogs Android (2 hour)
 
-### [CLASS 16:](https://slides.com/) 
+### [CLASS 16:](https://github.com/alejouribesanchez/android_course/tree/master/class_16) 
 
 - Android Preferences (1 hour)
 - Patterns Master-Detail (1 hour)
