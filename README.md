@@ -68,65 +68,66 @@ Monday  | 5:00 pm - 7:30 pm | 2:30
 
 ### [CLASS 4:](https://github.com/alejouribesanchez/android_course/tree/master/class_4) 
 
-- Custom Content Provider (1:30 hour)
-- Content Provider with multiple tables (1 hour)
-
-### [CLASS 5:](https://github.com/alejouribesanchez/android_course/tree/master/class_5) 
-
-- Services in second plane (2 hours)
-
-### [CLASS 6:](https://github.com/alejouribesanchez/android_course/tree/master/class_6) 
-
 - Layout in Android (2 hour)
 
-### [CLASS 7:](https://github.com/alejouribesanchez/android_course/tree/master/class_7) 
+### [CLASS 5:](https://github.com/alejouribesanchez/android_course/tree/master/class_5) 
 
 - Set up Layouts and Views in Android Studio(1 hour)
 - Buttons (1 hour)
 
-### [CLASS 8:](https://github.com/alejouribesanchez/android_course/tree/master/class_8) 
+### [CLASS 6:](https://github.com/alejouribesanchez/android_course/tree/master/class_6) 
 
 - EditText (2 hour)
 
-### [CLASS 9:](https://github.com/alejouribesanchez/android_course/tree/master/class_9) 
+### [CLASS 7:](https://github.com/alejouribesanchez/android_course/tree/master/class_7) 
 
 - CheckBox (1 hour)
 - RadioButton (1 hour)
 
-### [CLASS 10:](https://github.com/alejouribesanchez/android_course/tree/master/class_10) 
+### [CLASS 8:](https://github.com/alejouribesanchez/android_course/tree/master/class_8) 
 
 - Fragments in Android (1 hour)
 - Action Bar in Android (30 minutes)
 - Themes and style in Android (30 minutes)
 
-### [CLASS 11:](https://github.com/alejouribesanchez/android_course/tree/master/class_11) 
+### [CLASS 9:](https://github.com/alejouribesanchez/android_course/tree/master/class_9) 
 
 - ListView and adapters (1 hour)
 - Floating Action Button (1 hour)
 
-### [CLASS 12:](https://github.com/alejouribesanchez/android_course/tree/master/class_12) 
+### [CLASS 10:](https://github.com/alejouribesanchez/android_course/tree/master/class_10) 
 
 - Text input layout (1 hour)
 - GridView (1 hour)
 
+### [CLASS 11:](https://github.com/alejouribesanchez/android_course/tree/master/class_11) 
+
+- Navigation Drawer (1 hour)
+- Swipe Views (1 hour)
+
+### [CLASS 12:](https://github.com/alejouribesanchez/android_course/tree/master/class_12) 
+
+- Navigation Drawer (1 hour)
+- Swipe Views (1 hour)
+
 ### [CLASS 13:](https://github.com/alejouribesanchez/android_course/tree/master/class_13) 
-
-- Navigation Drawer (1 hour)
-- Swipe Views (1 hour)
-
-### [CLASS 14:](https://github.com/alejouribesanchez/android_course/tree/master/class_14) 
-
-- Navigation Drawer (1 hour)
-- Swipe Views (1 hour)
-
-### [CLASS 15:](https://github.com/alejouribesanchez/android_course/tree/master/class_15) 
 
 - Dialogs Android (2 hour)
 
-### [CLASS 16:](https://github.com/alejouribesanchez/android_course/tree/master/class_16) 
+### [CLASS 14:](https://github.com/alejouribesanchez/android_course/tree/master/class_14) 
 
 - Android Preferences (1 hour)
 - Patterns Master-Detail (1 hour)
+
+### [CLASS 15:](https://github.com/alejouribesanchez/android_course/tree/master/class_15) 
+
+- Custom Content Provider (1:30 hour)
+- Content Provider with multiple tables (1 hour)
+
+### [CLASS 16:](https://github.com/alejouribesanchez/android_course/tree/master/class_16) 
+
+- Services in second plane (2 hours)
+
 
 
 ## Resources
