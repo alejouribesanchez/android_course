@@ -30,12 +30,21 @@ The candidate should be proficient writing JAVA code.
 
 February 2017 | Schedule | Duration
 ---------|----------|---------
-Friday  | 5:00 pm - 9:00 pm | 4
-Saturday  | 8:00 am - 5:00 pm | 8
-Monday  |  5:00 pm - 9:00 pm | 4
-Tuesday  | 5:00 pm - 9:00 pm | 4
-Friday  | 5:00 pm - 9:00 pm | 4
-Saturday  | 8:00 am - 5:00 pm | 8
+Monday  | 5:00 pm - 7:30 pm | 2:30
+Wednesday  | 5:00 am - 7:30 pm | 2:30
+Friday  |  5:00 pm - 9:00 pm | 2:30
+Monday  | 5:00 pm - 9:00 pm | 2:30
+Wednesday  | 5:00 pm - 9:00 pm | 2:30
+Friday  | 5:00 am - 5:00 pm | 2:30
+Monday  | 5:00 pm - 9:00 pm | 2:30
+Wednesday  | 5:00 pm - 9:00 pm | 2:30
+Friday  | 5:00 am - 5:00 pm | 2:30
+Monday  | 5:00 pm - 9:00 pm | 2:30
+Wednesday  | 5:00 pm - 9:00 pm | 2:30
+Friday  | 5:00 am - 5:00 pm | 2:30
+Monday  | 5:00 pm - 9:00 pm | 2:30
+Wednesday  | 5:00 pm - 9:00 pm | 2:30
+Friday  | 5:00 am - 5:00 pm | 2:30
  | **Total Duration** | **32 Hours**
 
 ## Schedule
