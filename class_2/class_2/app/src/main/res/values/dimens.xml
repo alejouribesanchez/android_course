@@ -6,6 +6,5 @@
     <dimen name="space1">1pt</dimen>
     <dimen name="space2">1px</dimen>
     <dimen name="space3">1mm</dimen>
-    <dimen name="space4">1n</dimen>
 
 </resources>

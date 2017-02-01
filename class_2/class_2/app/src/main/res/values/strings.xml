@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">class_2</string>
-
     <string name="example">example</string>
+    <string name="spannable">Spannable String</string>
 
     <!-- Array de strings -->
     <string-array name="champions">

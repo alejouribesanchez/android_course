@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
         //String spannable
         TextView textView5 = (TextView)findViewById(R.id.text_view_example5);
         SpannableStringBuilder stringBuilder =
-                new SpannableStringBuilder(getString(R.string.example));
+                new SpannableStringBuilder(getString(R.string.spannable));
 
         stringBuilder.setSpan(new StyleSpan(Typeface.BOLD),0,1, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
         textView5.setText(stringBuilder);
