@@ -26,6 +26,10 @@ The candidate should be proficient writing JAVA code.
 - Install [Android Studio](https://developer.android.com/studio/index.html?hl=es-419)
 - Update SDK and Tools https://developer.android.com/studio/intro/update.html?hl=es-419
 
+## Strategy schedule
+
+- At the end of the all classes, it will have a space of 30 minutes to solve all the questions.  
+
 ## Program Schedule
 
 February 2017 | Schedule | Duration
@@ -48,7 +52,8 @@ Friday  | 5:00 am - 7:30 pm | 2:30
 Monday  | 5:00 pm - 7:30 pm | 2:30
  | **Total Duration** | **32 Hours**
 
-## Schedule
+## Schedule 
+
 
 ### [CLASS 1:](https://github.com/alejouribesanchez/android_course/tree/master/class_1) 
 - Introduction to JAVA (1 hour)
