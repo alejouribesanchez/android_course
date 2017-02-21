@@ -54,6 +54,15 @@ public class Main2Activity extends AppCompatActivity {
                 }
             }
         });
+
+
+        View layout = (View)findViewById(R.id.activity_main2);
+        layout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main2Activity.this, Main3Activity.class));
+            }
+        });
     }
 
     public void actualizarCuenta(View view) {

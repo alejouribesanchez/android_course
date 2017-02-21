@@ -12,4 +12,8 @@
         <item name="colorAccent">@color/colorPrimary</item>
     </style>
 
+    <style name="RadioButtonLima">
+        <item name="colorAccent">#D4E157</item>
+    </style>
+
 </resources>

@@ -29,6 +29,14 @@ public class Main4Activity extends AppCompatActivity {
                 startActivity(new Intent(Main4Activity.this, Main5Activity.class));
             }
         });
+
+        View layout = (View)findViewById(R.id.activity_main4);
+        layout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main4Activity.this, Main5Activity.class));
+            }
+        });
     }
 
     public void mostrarContraseña(View v){
@@ -46,4 +54,6 @@ public class Main4Activity extends AppCompatActivity {
         // Restaurar cursor
         campoContrasena.setSelection(cursor);
     }
+
+
 }

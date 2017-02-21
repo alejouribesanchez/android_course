@@ -27,6 +27,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        View layout = (View)findViewById(R.id.activity_main);
+        layout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, Main2Activity.class));
+            }
+        });
+
     }
 
     public void loguearCheckbox(View v) {

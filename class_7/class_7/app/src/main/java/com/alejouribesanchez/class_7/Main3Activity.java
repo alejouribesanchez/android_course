@@ -20,5 +20,13 @@ public class Main3Activity extends AppCompatActivity {
                 startActivity(new Intent(Main3Activity.this,Main4Activity.class));
             }
         });
+
+        View layout = (View)findViewById(R.id.activity_main3);
+        layout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main3Activity.this, Main4Activity.class));
+            }
+        });
     }
 }

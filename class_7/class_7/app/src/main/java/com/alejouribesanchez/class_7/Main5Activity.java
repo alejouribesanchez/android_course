@@ -35,6 +35,14 @@ public class Main5Activity extends AppCompatActivity {
                 startActivity(new Intent(Main5Activity.this, Main6Activity.class));
             }
         });
+
+        View layout = (View)findViewById(R.id.activity_main5);
+        layout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main5Activity.this, Main6Activity.class));
+            }
+        });
     }
 
 
