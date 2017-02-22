@@ -1,6 +1,7 @@
 package com.alejouribesanchez.class_8;
 
 
+import android.content.Intent;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.net.Uri;
@@ -34,6 +35,14 @@ public class MainActivity extends AppCompatActivity  implements BlankFragment.On
                 //Paso 4: Confirmar el cambio
                 transaction.commit();
 
+            }
+        });
+
+        View view = findViewById(R.id.activity_main);
+        view.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, Main2Activity.class));
             }
         });
     }
