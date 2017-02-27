@@ -44,5 +44,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        View view2 = findViewById(R.id.button2);
+        view2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                listView.setDivider(null);
+            }
+        });
+
     }
 }
