@@ -16,7 +16,18 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main2Activity" />
-        <activity android:name=".Main3Activity"></activity>
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity
+            android:name=".Main5Activity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main6Activity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main7Activity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Main8Activity"></activity>
     </application>
 
 </manifest>
