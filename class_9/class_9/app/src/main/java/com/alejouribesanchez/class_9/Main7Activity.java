@@ -1,5 +1,6 @@
 package com.alejouribesanchez.class_9;
 
+import android.content.Intent;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -35,6 +36,14 @@ public class Main7Activity extends AppCompatActivity {
                             .setInterpolator(interpolador)
                             .start();
                 }
+            }
+        });
+
+        View view = findViewById(R.id.button);
+        view.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Main7Activity.this,Main8Activity.class));
             }
         });
     }

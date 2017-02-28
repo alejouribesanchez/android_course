@@ -27,7 +27,12 @@
         <activity
             android:name=".Main7Activity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Main8Activity"></activity>
+        <activity
+            android:name=".Main8Activity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Main9Activity"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>
