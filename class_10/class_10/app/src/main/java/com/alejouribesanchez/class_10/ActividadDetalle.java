@@ -5,9 +5,11 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 
+import com.bumptech.glide.Glide;
+
 public class ActividadDetalle extends AppCompatActivity {
 
-    public static final String EXTRA_PARAM_ID = "com.herprogramacion.coches2015.extra.ID";
+    public static final String EXTRA_PARAM_ID = "coches2015.extra.ID";
     public static final String VIEW_NAME_HEADER_IMAGE = "imagen_compartida";
     private Coche itemDetallado;
     private ImageView imagenExtendida;

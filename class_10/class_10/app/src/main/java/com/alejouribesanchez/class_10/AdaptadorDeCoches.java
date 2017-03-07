@@ -12,6 +12,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
+
 /**
  * {@link BaseAdapter} para poblar coches en un grid view
  */
@@ -50,8 +52,16 @@ public class AdaptadorDeCoches extends BaseAdapter {
         ImageView imagenCoche = (ImageView) view.findViewById(R.id.imagen_coche);
         TextView nombreCoche = (TextView) view.findViewById(R.id.nombre_coche);
 
+
+        /*
         final Coche item = getItem(position);
-        imagenCoche.setImageResource(item.getIdDrawable());
+        imagenCoche.setImageResource(item.getIdDrawable()); */ //SIN GLIDE
+
+        final Coche item = getItem(position);
+        Glide.with(imagenCoche.getContext())
+                .load(item.getIdDrawable())
+                .into(imagenCoche);
+
         nombreCoche.setText(item.getNombre());
 
         return view;
