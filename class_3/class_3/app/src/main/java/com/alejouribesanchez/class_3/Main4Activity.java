@@ -42,7 +42,7 @@ public class Main4Activity extends AppCompatActivity {
 
                 Intent dataBack = new Intent();
                 dataBack.putExtra(Main4Activity.class.getSimpleName(),opt);
-                setResult(RESULT_OK);
+                setResult(RESULT_OK, dataBack);
                 finish();
             }
         });

@@ -1,5 +1,6 @@
 package com.alejouribesanchez.class_2;
 
+import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
