@@ -1,4 +1,4 @@
-# Class 2 Android Course in Kotlin
+# Class 2 Android Course in Java
 
 ## Description
 
@@ -6,6 +6,6 @@ In this class, the student is going to learn the basic concepts to use resources
 
 ## Screenshoots
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_2/image/class2_1.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_2/image/class2_2.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_2/image/class2_3.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_2/image/class2_1.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_2/image/class2_2.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_2/image/class2_3.png)

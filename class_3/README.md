@@ -1,4 +1,4 @@
-# Class 3 Android Course in Kotlin
+# Class 3 Android Course in Java
 
 ## Description
 
@@ -6,11 +6,11 @@ In this class, the student is going to learn the basic concepts of Lyfecycle Act
 
 ## Screenshoots
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_1.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_2.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_3.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_4.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_5.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_6.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_7.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_3/image/class3_8.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_1.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_2.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_3.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_4.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_5.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_6.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_7.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_3/image/class3_8.png)

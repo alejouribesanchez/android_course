@@ -1,4 +1,4 @@
-# Class 10 Android Course in Kotlin
+# Class 10 Android Course in Java
 
 ## Description
 
@@ -7,13 +7,13 @@ GridView
 
 ## Screenshoots
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_1.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_2.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_3.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_4.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_5.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_6.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_7.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_8.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_9.png)
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_10/image/class10_10.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_1.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_2.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_3.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_4.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_5.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_6.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_7.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_8.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_9.png)
+![alt text](https://github.com/alejouribesanchez/android_course/blob/master/class_10/image/class10_10.png)
