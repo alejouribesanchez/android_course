@@ -4,7 +4,7 @@
 
 In this course, the student is going to learn the basic concepts to become a junior android developer, the learning includes an introduce to java, concepts of android architecture, beginner knowledges, components for build an entire applicattion and user interface components.  The intermediate course is more complex includes material design, sqlite, processes in second plane, practice applications, google services and more. we hope that you learn a lot and become a new android developer.
 
-The course will be limited to 15 people in order to good explanation and solve all students questions.
+The course is free to anyone.
 
 ## Target people
 
@@ -31,25 +31,6 @@ The candidate should be proficient writing JAVA code.
 - At the end of the all classes, it will have a space of 30 minutes to solve all the questions.  
 
 ## Program Schedule
-
-February 2017 | Schedule | Duration
----------|----------|---------
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 am - 7:30 pm | 2:30
-Friday  |  5:00 pm - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
  | **Total Duration** | **32 Hours**
 
 ## Schedule 
@@ -132,8 +113,6 @@ Monday  | 5:00 pm - 7:30 pm | 2:30
 ### [CLASS 16:](https://github.com/alejouribesanchez/android_course/tree/master/class_16) 
 
 - Services in second plane (2 hours)
-
-
 
 ## Resources
 
